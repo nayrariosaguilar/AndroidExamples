@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Nay</string>
+    <string name="name">Name</string>
+    <string name="nick">nick</string>
+    <string name="Nick">Nick</string>
+    <string name="favourite_city">Favourite city</string>
+    <array name="city">
+        <item>Paris</item>
+        <item>Barcelona</item>
+        <item>Salsa</item>
+    </array>
 </resources>
